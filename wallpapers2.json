@@ -1,0 +1,120 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"wallpapers":
+        [
+		
+		{
+			"name": "b1",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/b1.jpg",
+			
+		},
+		{
+			"name": "coast",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/coast.jpg",
+			
+		},
+		{
+			"name": "landscape1",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape1.jpg",
+			
+		},
+		{
+			"name": "landscape2",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape2.jpg",
+			
+		},
+		{
+			"name": "landscape3",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape3.jpg",
+			
+		},
+		{
+			"name": "landscape4",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape4.jpg",
+			
+		},
+		{
+			"name": "landscape5",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape5.jpg",
+			
+		},
+		{
+			"name": "landscape6",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape6.jpg",
+			
+		},
+		{
+			"name": "landscape7",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape7.jpg",
+			
+		},
+		{
+			"name": "landscape8",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape8.jpg",
+
+		},
+		{
+			"name": "wing",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/wing.jpg",
+
+		}
+		]
+		
+		
+}
