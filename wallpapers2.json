@@ -42,159 +42,77 @@
             },
             {
                 "name": "House"
-            },
-		{
-                "name": "tes"
             }
         ],
     
-	"Wallpapers":
+	"wallpapers":
         [
-			{
-			"name": "wall1",
-			"author": "Ambrose Chua",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall1.jpg",
-			"category": "Architecture"
-		},
-		{
-			"name": "wall2",
-			"author": "Andreas Kind",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall2.jpg",
-			"category": "Mountain"
-
-		},
-		{
-			"name": "wall3",
-			"author": "Lachlan Dempsey",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall3.jpg",
-			"category": "Beach"
-		},
-		{
-			"name": "wall4",
-			"author": "Unsplash",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall4.jpg",
-			"category": "Beach"
-		},
-		{
-			"name": "wall5",
-			"author": "Samuele Errico Piccarini",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall5.jpg",
-			"category": "Road"
-
-		},
-		{
-			"name": "wall6",
-			"author": "Unsplash",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall6.jpg",
-			"category": "Beach"
-
-		},
-		{
-			"name": "wall7",
-			"author": "Unsplash",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall7.jpg",
-			"category": "Forest"
-
-		}
-		,
-		{
-			"name": "wall8",
-			"author": "Simon Matzinger",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall8.jpg",
-			"category": "Mountain"
-			
-		}
-		,
-		{
-			"name": "wall9",
-			"author": "Luca Zanon",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall9.jpg",
-			"category": "Mountain"
-			
-		}
-		,
-		{
-			"name": "wall10",
-			"author": "Daniel Roe",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall10.jpg",
-			"category": "Mountain"
-			
-		}
-		,
-		{
-			"name": "wall11",
-			"author": "Nattu Adnan",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall11.jpg",
-			"category": "Beach"
-			
-		}
-		,
-		{
-			"name": "wall12",
-			"author": "Simone Hutsch",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall12.jpg",
-			"category": "Architecture"
-			
-		}
-		,
-		{
-			"name": "wall13",
-			"author": "Riccardo Oliva",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall13.jpg",
-			"category": "Architecture"
-			
-		}
-		,
-		{
-			"name": "wall14",
-			"author": "Wes Hicks",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall14.jpg",
-			"category": "Nature"
-			
-		}
-		,
 		
 		{
-			"name": "wall15",
-			"author": "Greg Rakozy",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall15.jpg",
+			"name": "b1",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/b1.jpg",
 			"category": "Nature"
-			
-		}
-		,
+		},
 		{
-			"name": "Android O",
-			"author": "Android",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/android_o.png",
-			"category": "Satellite"
-		}
-		,
-		{
-			"name": "Android O_1",
-			"author": "Android",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android%20Oreo_1.jpg",
-			"category": "Ocean"
-		}
-		,
-		{
-			"name": "Android O_2",
-			"author": "Android",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_2.jpg",
-			"category": "Beach"
-		}
-		,
-		{
-			"name": "Android O_3",
-			"author": "Android",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_3.jpg",
+			"name": "coast",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/coast.jpg",
 			"category": "Nature"
-		}
-		,
+		},
 		{
-			"name": "Android O_4",
-			"author": "Android",
-			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_4.jpg",
-			"category": "Ocean"
+			"name": "landscape1",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape1.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape2",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape2.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape3",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape3.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape4",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape4.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape5",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape5.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape6",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape6.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape7",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape7.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "landscape8",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/landscape8.jpg",
+			"category": "Nature"
+		},
+		{
+			"name": "wing",
+			"author": "pxhere",
+			"url": "https://raw.githubusercontent.com/bantu24/waold/master/wallpapers/wing.jpg",
+			"category": "Nature"
 		}
 		]
 }
